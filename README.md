@@ -62,6 +62,7 @@
 
 <p align="left">
   <a href="https://app.notion.com/p/2e9fec1b36f980ada28ad064a511e4e6"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://mystory51672.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5F35?style=for-the-badge&logo=tistory&logoColor=white"></a>
 </p>
 
 ---
