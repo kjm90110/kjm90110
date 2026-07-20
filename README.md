@@ -1,4 +1,7 @@
 <h1 align="center">안녕하세요, 김주미입니다 👋</h1>
+<div align="center">
+  <img width="480" height="268" alt="Image" src="https://github.com/user-attachments/assets/30b9bd6e-b6d5-43ce-9b8d-5566ec674293" />
+</div>
 <h3 align="center">Junior Developer | Backend & AI Systems</h3>
 
 <p align="center">
