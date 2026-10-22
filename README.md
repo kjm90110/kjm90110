@@ -28,6 +28,7 @@
 | [**TripCanvas Server**](https://github.com/TripCanvas-project/Server) | AI가 대신 짜주는 여행 플랜, Trip Canvas | `JavaScript` |
 | [**safety-map-project (backend)**](https://github.com/safety-map-project/backend) | 공신력있는 전국 범죄 통계 데이터를 활용한 범죄 안전 구역 조회 서비스 | `Java` |
 | [**servlet-stock-project**](https://github.com/stock-project-koreait/servlet-stock-project) | 실시간 주식 시세 정보 조회와 배당금 계산을 해볼 수 있는 프로그램  | `Java` |
+| [**Of-Calls**](https://github.com/Of-Calls) | AI가 회사의 상담원이 되어 실제로 전화 상담을 해주는 서비스 | `Python` |
  
 ---
 
